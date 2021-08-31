@@ -1,2 +1,1 @@
-code activate deployment
-pip install flask
+Heroku deployment
